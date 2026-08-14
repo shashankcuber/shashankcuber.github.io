@@ -9,7 +9,7 @@ redirect_from:
 
 Hi! I'm **Shashank Pathak**, PhD student in CS at [UofA](https://www.ualberta.ca/en/computing-science/index.html).
 
-My research spans across inverse problems (like super-resolution), aspects of representation learning and AI + biology. I have keen interest of viewing different mathematical concepts with its application in improving machine learning systems. For eg: hyperbolic geometry + representation learning, fractionl gradients in optimization etc.
+My research spans across inverse problems (like super-resolution), aspects of representation learning and AI + biology. I have keen interest of viewing different mathematical concepts with its application in improving machine learning systems. For eg: hyperbolic geometry + representation learning, fractional gradients in optimization etc.
 
 I completed my **MSc (thesis-track) in Computing Science at the University of Alberta**, under the supervision of [Guohui Lin](https://webdocs.cs.ualberta.ca/~ghlin/) where my research focused on **codon optimization**. My thesis led to [ppLM-CO](https://dl.acm.org/doi/full/10.1145/3807503.3819445), a parameter-efficient approach for generating optimized mRNA sequences while preserving translation fidelity.
 
